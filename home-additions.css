@@ -4,7 +4,7 @@
   position: relative;
   color: #fff;
   background-image: linear-gradient(0deg, rgba(0,0,0,.7), rgba(0,0,0,.7)), 
-  url('../images/hero-community.jpg');
+  url('hero-community.jpg');
   background-size: cover;
   background-position: center;
   padding: 12rem 0 12rem;
